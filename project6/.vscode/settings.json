@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "select.h": "c",
+        "select_query.h": "c",
+        "insert_query.h": "c"
+    }
+}
